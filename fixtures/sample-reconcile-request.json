@@ -1,0 +1,31 @@
+{
+  "bankData": [
+    {
+      "transactionId": "BNK-001",
+      "amount": 19.99,
+      "currency": "USD",
+      "valueDate": "2026-01-10T14:30:00.000Z",
+      "description": "Payment INV-1001",
+      "reference": "INV-1001"
+    },
+    {
+      "transactionId": "BNK-002",
+      "amount": 250.0,
+      "currency": "USD",
+      "valueDate": "2026-01-15T10:00:00.000Z",
+      "description": "Payment INV-1002",
+      "reference": "INV-1002"
+    },
+    {
+      "transactionId": "BNK-003",
+      "amount": 99.5,
+      "currency": "USD",
+      "valueDate": "2026-01-20T17:00:00.000Z",
+      "description": "Payment INV-1003",
+      "reference": "INV-1003"
+    }
+  ],
+  "periodStart": "2026-01-01T00:00:00.000Z",
+  "periodEnd": "2026-02-01T00:00:00.000Z",
+  "notes": "Local test reconciliation"
+}

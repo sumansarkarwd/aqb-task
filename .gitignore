@@ -1,0 +1,9 @@
+node_modules
+package-lock.json
+pnpm-debug.log*
+.next
+data
+*.db
+.env
+.env.local
+drizzle/meta
